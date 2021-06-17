@@ -69,7 +69,7 @@
             </div>
             <div class="content-foo">
                 <h4>Localización</h4>
-                <p>https://maps.app.goo.gl/tsNgshYUhEJBzFTi8</p>
+                <p>11-47 Zona 2 Barrio El Calvario San Martin Jilotepeque/ Chimaltenango/ Guatemala.</p>
             </div>
         </div>
         <h2 class="titulo-final">&copy; Miscelánea | Todo tipo de productos y elementos.</h2>
